@@ -1,0 +1,8 @@
+tile = "Test"
+
+[account]
+balance = 1500
+id = "joe"
+
+[[security]]
+password = "passwd123"
